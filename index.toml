@@ -1,0 +1,111 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/aquamirae-delight.pw.toml"
+hash = "a43acd4b5a8676a0738c8a9d92d70f9d8ec2eed09c517ac9b91823e94b8de7bc"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
+metafile = true
+
+[[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "f7d6e93ebda94f4e833741ca04527ee8758852ba44ba4a36de071936a2533bff"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "6a62d8663df5fe33f18c8a0d3784a3aab183b252c620c45fc98e677a71b06cde"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "67321b642d34507ff66f3aa2b19d13da45ac74c967be7b47aee2344cafd91ea9"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "65009247d7407af232a5959d12d71f13332be181d2042e8e8d743e5096a825d4"
+metafile = true
+
+[[files]]
+file = "mods/epic-paladins.pw.toml"
+hash = "33b8c700a80d7fd91b6456b371ab0a297f7ca20017f31ed5cc214e8b01c36028"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9dfeec9e729c2599a39d005da996ced9ab683e4e5cc51d5d65b554e8b726a73f"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
+metafile = true
+
+[[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "cc24ee332a95fcae64ccb5dd9905fc25b2f8a2ccab500add27f0ff05fc130abf"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "fd382cec52297ec03c27c9127dcc2d0b2c288262ce5680a1e7b6d9d8bfc04ece"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
+metafile = true
+
+[[files]]
+file = "mods/rats.pw.toml"
+hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "e242387207a2538b5ccb55697174c65e549e1eb2fef9da37e1ad3734e0372b65"
+metafile = true
+
+[[files]]
+file = "mods/simplehats.pw.toml"
+hash = "9982ecd54ac42374a1949e01ac7eda3deeed4721d86fcbb0199baf6cc6796500"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine-x-open-parties-and-claims.pw.toml"
+hash = "e1ebe848ce6f24162ea0a548ec8ed614621e365accbd4f588267abd8f2ba1a9a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
+metafile = true
